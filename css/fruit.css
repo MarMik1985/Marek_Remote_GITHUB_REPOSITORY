@@ -16,6 +16,22 @@ body *{box-sizing: border-box;}
 	  .fruit li{list-style:none;
 	  }
 
+
+
+
+	  .fruit2 {width:400px;
+	background-color:orange;
+	text-align:center;
+	margin:60px;
+	padding:30px;
+	border:2px solid blue;
+	font-size:30px;
+	font-weight: bold;
+	  }
+
+	  .fruit2 li{list-style:none;
+	  }
+
 .image{
 	text-align: center;
 	width:400px;
