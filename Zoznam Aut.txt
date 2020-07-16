@@ -18,4 +18,5 @@ Zoznam automobilov:
 21. Man
 22. Ferrari
 31. Zastava
+154. Trabant Combi
 
