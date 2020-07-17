@@ -1,1 +1,0 @@
-This is remote file which I create to pull it into my Local Repository. It is fine :)
