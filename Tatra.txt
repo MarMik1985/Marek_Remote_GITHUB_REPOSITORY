@@ -3,4 +3,4 @@ Tatra 2 master
 Tatra 3 Brencha
 Tatra 4 master
 Tatra 5 Brencha
-
+Tatra 6 Master
